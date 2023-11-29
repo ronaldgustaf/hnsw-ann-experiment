@@ -1,16 +1,17 @@
 # HNSW Approximate Nearest Neighbors Experiment
 Final Project SDSC3001 Big Data: The Art and Science of Scaling
 
-Lecturer: Dr. YANG Yu
-City University of Hong Kong
-Authors
+- Lecturer: Dr. YANG Yu
+- City University of Hong Kong
+
+### Authors
 This project was created by:
 
-ABDINEGARA, Beatrice
-GUSTAF, Benedict Ronaldo
-HA, Quang Minh
-HALIM, Seivabel Jessica
-YENNOTO, Keane Dylan
+- ABDINEGARA, Beatrice
+- GUSTAF, Benedict Ronaldo
+- HA, Quang Minh
+- HALIM, Seivabel Jessica
+- YENNOTO, Keane Dylan
 
 ## Introduction
 
